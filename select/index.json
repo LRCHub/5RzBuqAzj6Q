@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "base_track": "In The Night",
+  "base_artist": "Fly By Midnight",
+  "createdAt": "2026-04-03T03:32:28.561866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寶貝 (In the Night)",
+      "artist": "張懸",
+      "has_synced": true,
+      "path": "select/01_寶貝_(In_the_Night)_張懸.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宝贝(in the night)",
+      "artist": "张悬",
+      "has_synced": true,
+      "path": "select/02_宝贝(in_the_night)_张悬.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thief In The Night (feat. Trouble)",
+      "artist": "Young Thug feat. Trouble",
+      "has_synced": true,
+      "path": "select/03_Thief_In_The_Night_(feat._Trouble)_Young_Thug_feat._Trouble.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thief In The Night (Feat. Trouble)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/04_Thief_In_The_Night_(Feat._Trouble)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Late In The Night (Interlude)",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/05_Too_Late_In_The_Night_(Interlude)_S-X.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angel in the Night",
+      "artist": "Nedarb feat. Brennan Savage & LiL Lotus",
+      "has_synced": false,
+      "path": "select/06_Angel_in_the_Night_Nedarb_feat._Brennan_Savage_&_LiL_Lotus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Angel in the Night (feat. Brennan Savage & Lil Lotus)",
+      "artist": "Nedarb Nagrom",
+      "has_synced": false,
+      "path": "select/07_Angel_in_the_Night_(feat._Brennan_Savage_&_Lil_Lotus)_Nedarb_Nagrom.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spirits In The Night",
+      "artist": "Manfred Mann's Earth Band",
+      "has_synced": false,
+      "path": "select/08_Spirits_In_The_Night_Manfred_Mann's_Earth_Band.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Take Me In the Night",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/09_Take_Me_In_the_Night_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cries In The Night",
+      "artist": "W.A.S.P.",
+      "has_synced": false,
+      "path": "select/10_Cries_In_The_Night_W.A.S.P..txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In the Night",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/11_In_the_Night_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Like a Thief In the Night",
+      "artist": "The Flirts",
+      "has_synced": false,
+      "path": "select/12_Like_a_Thief_In_the_Night_The_Flirts.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ships That Pass In The Night",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/13_Ships_That_Pass_In_The_Night_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tango In The Night",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/14_Tango_In_The_Night_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Right In the Night",
+      "artist": "Whigfield",
+      "has_synced": false,
+      "path": "select/15_Right_In_the_Night_Whigfield.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Right in the Night",
+      "artist": "Jam & Spoon",
+      "has_synced": false,
+      "path": "select/16_Right_in_the_Night_Jam_&_Spoon.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Right in the Night (Fall in Love With Music) (single version)",
+      "artist": "Jam & Spoon",
+      "has_synced": false,
+      "path": "select/17_Right_in_the_Night_(Fall_in_Love_With_Music)_(single_version)_Jam_&_Spoon.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Right In the Night (Bodybangers Remix)",
+      "artist": "Jam & Spoon",
+      "has_synced": false,
+      "path": "select/18_Right_In_the_Night_(Bodybangers_Remix)_Jam_&_Spoon.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bones in the Ocean",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/19_Bones_in_the_Ocean_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\") [feat. Damhnait Doyle]",
+      "artist": "Keith Power feat. Alan Doyle",
+      "has_synced": true,
+      "path": "select/20_Sleeping_in_the_Cold_Below_(From__Warframe_)_[feat._Damhnait_Doyle]_Keith_Power_feat._Alan_Doyle.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sleeping in the Cold Below (From \"Warframe\")",
+      "artist": "Keith Power",
+      "has_synced": true,
+      "path": "select/21_Sleeping_in_the_Cold_Below_(From__Warframe_)_Keith_Power.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sugar In The Hold",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/22_Sugar_In_The_Hold_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "The Bard's Song - In The Forest",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/23_The_Bard's_Song_-_In_The_Forest_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/24_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Breaking Up Was Easy In The 90's",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/25_Breaking_Up_Was_Easy_In_The_90's_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Dancin' In the Moonlight",
+      "artist": "Chris Lane feat. Lauren Alaina",
+      "has_synced": true,
+      "path": "select/26_Dancin'_In_the_Moonlight_Chris_Lane_feat._Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "artist": "Chris Lane",
+      "has_synced": true,
+      "path": "select/27_Dancin'_In_The_Moonlight_(feat._Lauren_Alaina)_Chris_Lane.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Dancing In the Moonlight",
+      "artist": "Jubël feat. NEIMY",
+      "has_synced": true,
+      "path": "select/28_Dancing_In_the_Moonlight_Jubël_feat._NEIMY.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Eye in the Sky",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/29_Eye_in_the_Sky_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Fish In The Sea",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/30_Fish_In_The_Sea_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "In The Army Now",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/31_In_The_Army_Now_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "In the Air Tonight - 2015 Remaster",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/32_In_the_Air_Tonight_-_2015_Remaster_Phil_Collins.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just A Gent feat. McCall",
+      "has_synced": true,
+      "path": "select/33_Iris_in_the_Dark_Just_A_Gent_feat._McCall.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Iris in the Dark",
+      "artist": "Just a Gent, McCall",
+      "has_synced": true,
+      "path": "select/34_Iris_in_the_Dark_Just_a_Gent,_McCall.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "It's Hard to Be a Saint in the City",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/35_It's_Hard_to_Be_a_Saint_in_the_City_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Made in the USA",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/36_Made_in_the_USA_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Melt in night",
+      "artist": "Nyarons",
+      "has_synced": false,
+      "path": "select/37_Melt_in_night_Nyarons.txt"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "Minutes in Night",
+      "artist": "The Bronx",
+      "has_synced": true,
+      "path": "select/38_Minutes_in_Night_The_Bronx.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "When It Rains In Night",
+      "artist": "PENTAGON",
+      "has_synced": true,
+      "path": "select/39_When_It_Rains_In_Night_PENTAGON.lrc"
+    },
+    {
+      "id": "lrclib_40",
+      "source": "lrclib",
+      "title": "Ecstasies in night infinite",
+      "artist": "Watain",
+      "has_synced": false,
+      "path": "select/40_Ecstasies_in_night_infinite_Watain.txt"
+    },
+    {
+      "id": "lrclib_41",
+      "source": "lrclib",
+      "title": "Dressed in Night Clothes",
+      "artist": "Will Haven",
+      "has_synced": false,
+      "path": "select/41_Dressed_in_Night_Clothes_Will_Haven.txt"
+    },
+    {
+      "id": "lrclib_42",
+      "source": "lrclib",
+      "title": "Melt in Night",
+      "artist": "Nyarons",
+      "has_synced": false,
+      "path": "select/42_Melt_in_Night_Nyarons.txt"
+    },
+    {
+      "id": "lrclib_43",
+      "source": "lrclib",
+      "title": "Melt in Night (2018 Remaster)",
+      "artist": "Nyarons",
+      "has_synced": true,
+      "path": "select/43_Melt_in_Night_(2018_Remaster)_Nyarons.lrc"
+    },
+    {
+      "id": "lrclib_44",
+      "source": "lrclib",
+      "title": "Welcome in Night Box",
+      "artist": "Marcel et son orchestre",
+      "has_synced": true,
+      "path": "select/44_Welcome_in_Night_Box_Marcel_et_son_orchestre.lrc"
+    },
+    {
+      "id": "lrclib_45",
+      "source": "lrclib",
+      "title": "In Night",
+      "artist": "Muzzy, Sullivan King",
+      "has_synced": true,
+      "path": "select/45_In_Night_Muzzy,_Sullivan_King.lrc"
+    },
+    {
+      "id": "lrclib_46",
+      "source": "lrclib",
+      "title": "In Night",
+      "artist": "Sullivan King Muzzy",
+      "has_synced": true,
+      "path": "select/46_In_Night_Sullivan_King_Muzzy.lrc"
+    },
+    {
+      "id": "lrclib_47",
+      "source": "lrclib",
+      "title": "Party Time (As Heard in Night of the Living Dead) [Re-Recorded / Remastered]",
+      "artist": "45 Grave",
+      "has_synced": false,
+      "path": "select/47_Party_Time_(As_Heard_in_Night_of_the_Living_Dead)_[Re-Recorded___Remastered]_45_Grave.txt"
+    },
+    {
+      "id": "lrclib_48",
+      "source": "lrclib",
+      "title": "Shadows In Night",
+      "artist": "The Quest",
+      "has_synced": false,
+      "path": "select/48_Shadows_In_Night_The_Quest.txt"
+    },
+    {
+      "id": "lrclib_49",
+      "source": "lrclib",
+      "title": "Shot In Night (Extended Version)",
+      "artist": "Saphir",
+      "has_synced": true,
+      "path": "select/49_Shot_In_Night_(Extended_Version)_Saphir.lrc"
+    },
+    {
+      "id": "lrclib_50",
+      "source": "lrclib",
+      "title": "08 - Welcome In Night Box",
+      "artist": "Marcel & Son Orchestre",
+      "has_synced": true,
+      "path": "select/50_08_-_Welcome_In_Night_Box_Marcel_&_Son_Orchestre.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In the Night",
+      "artist": "Fly By Midnight",
+      "has_synced": false,
+      "path": "select/pl_01_In_the_Night_Fly_By_Midnight.txt"
+    }
+  ]
+}
